@@ -1,0 +1,6 @@
+*.tmp
+build/
+/.nb-gradle/
+gradle.properties
+.gradle
+.DS_Store
